@@ -15,7 +15,7 @@ What all security issues and insights you can derive by EDA?<br>
 You can choose any of the tool of your choice<br>
 (Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
 Dataset: https://bit.ly/2TK5Xn5 <br>
-Tutorial:  <br>
+Tutorial: https://youtu.be/osR6ouzXxkQ <br>
 <br>
 Task 6. **Prediction using Decision Tree Algorithm**<br>
 Create the Decision Tree classifier and visualize it graphically.<br>
